@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000!important;
 }
 
 .container {
@@ -723,7 +723,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #000000!important;
 }
 
 h4 {
@@ -736,7 +736,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #ffffff!important;
 }
 
 .portfolio-thumb {
@@ -1048,4 +1048,8 @@ h4 {
 
 .img-responsive{
     margin: auto;
+}
+
+.black{
+    color: black;
 }
